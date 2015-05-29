@@ -1,0 +1,2 @@
+# moofa
+Flask Project Structure
