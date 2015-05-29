@@ -1,0 +1,8 @@
+Flask
+Flask-Script
+Flask-SQLAlchemy
+Flask-WTF
+MySQL-python
+livereload
+formic
+gunicorn

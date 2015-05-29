@@ -1,0 +1,11 @@
+{
+  "name": "mooto-manage",
+  "version": "1.0.0",
+  "description": "",
+  "author": "puras <he@puras.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1"
+  }
+}

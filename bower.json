@@ -1,0 +1,21 @@
+{
+  "name": "mooto-manage",
+  "version": "1.0.0",
+  "authors": [
+    "puras <he@puras.me>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "1.11.3",
+    "bootstrap": "~3.3.4",
+    "jquery-validation": "~1.13.1",
+    "font-awesome": "~4.3.0"
+  }
+}
